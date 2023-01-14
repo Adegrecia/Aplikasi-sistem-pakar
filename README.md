@@ -14,5 +14,4 @@ mysql_select_db($database) or die("Maaf, Database tidak bisa dibuka");
 Login dengan /kerusakan_hp/formlogin 
 Username : <b>admin</b> 
 Password : <b>admin</b>
-## Formula yang digunakan:
 ```
